@@ -1,0 +1,18 @@
+--project ideas--
+
+improved battle tracker
+    -include hp tracker and round counter functions
+    -remove movement history function (clunky and unhelpful)
+    -improve and polish status effect function
+    -add ability to add enemies from monster manual API
+    -drop-down menu that holds stat block information
+    -ability to add players as well
+    -log-in and save functions? ability to save favorite monsters/ party members?
+
+something with the nasa api?
+
+youtube radio
+
+personal journal app
+
+chat room with randomly generated avatars (dicebear)
